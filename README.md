@@ -91,8 +91,19 @@ ping 192.168.x.x
 * The script prints detected pings to the console for real-time monitoring.
 * Works on local network IPs and public IPs if reachable.
 
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+The MIT License allows you to freely use, modify, and distribute this project, while the author is not liable for any damages.
+
 ---
 
 ## Full Python Script
 
 Refer to the script in the Notion documentation or the included `ping_alert.py` file.
+
+---
+
+
